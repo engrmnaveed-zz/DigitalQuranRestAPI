@@ -76,11 +76,11 @@ DATABASES = {
  
         #prod
         'USER': 'root',
-        'PASSWORD': 'xatr0a',
+#        'PASSWORD': 'xatr0a',
         'HOST': '127.0.0.1',
 #         #local
 #         'USER': 'root',
-#         'PASSWORD': 'root',
+         'PASSWORD': 'root',
 #         'HOST': '127.0.0.1',
  
         'PORT': '3306',
